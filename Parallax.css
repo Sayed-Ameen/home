@@ -1,0 +1,135 @@
+.caption {
+  position:sticky;
+  left: 0;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+  color: #000;
+}
+
+.caption span.border {
+  background-color: #116466;
+  color: #D1E8E2;
+  padding: 18px;
+  font-size: 25px;
+  letter-spacing: 10px;
+  border: 5px solid #FFCB9A;
+}
+
+.GarageBlock {
+	height: 10px;
+	font-size: 20px;
+	align: center;
+  padding-bottom: 20px;
+	margin-bottom: 0px;
+}
+
+#garagetitle{
+  background-color: #116466;
+  color: #FFCB9A;
+  text-align: center;
+  font-size: 24px;
+  margin-bottom: 50px;
+}
+#parallax1 {
+  /* The image used */
+  background-image: url("svjAventador.jpg");
+
+  /* Set a specific height */
+  min-height: 1000px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#LamborghiniContainer {
+  background-color: #20AE00;
+}
+
+#parallax2 {
+  /* The image used */
+  background-image: url("senna.jpg");
+
+  /* Set a specific height */
+  min-height: 1000px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#MclarenContainer {
+  background-color: #F12711;
+}
+
+#parallax3 {
+  /* The image used */
+  background-image: url("Porsche911.jpg");
+
+  /* Set a specific height */
+  min-height: 1000px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#PorscheContainer {
+  background-color: #0CA538;
+}
+
+#parallax4 {
+  /* The image used */
+  background-image: url("amggtr.jpg");
+
+  /* Set a specific height */
+  min-height: 1000px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#AMGContainer {
+  background-color: #51CB7E;
+}
+
+#parallax5 {
+  /* The image used */
+  background-image: url("Newr8spyder.jpg");
+
+  /* Set a specific height */
+  min-height: 1000px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#AudiContainer {
+  background-color: #07C85B;
+}
+
+#parallax6 {
+  /* The image used */
+  background-image: url("fordgt.jpg");
+
+  /* Set a specific height */
+  min-height: 1000px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#FordContainer {
+  background-color: #FE674C;
+}

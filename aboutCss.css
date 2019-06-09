@@ -1,0 +1,21 @@
+html {
+  background-color: #2C3531;
+}
+
+p {
+  display: block;
+  background-color: #116466;
+  color: #D1E8E2;
+  font-size: 26px;
+  padding: 20px;
+  border: 5px solid #FFCB9A;
+}
+
+video {
+  border: 5px solid #FFCB9A;
+  margin: 20px;
+}
+
+#victador {
+  border: 5px solid #FFCB9A;
+}

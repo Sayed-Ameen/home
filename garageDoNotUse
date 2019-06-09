@@ -1,0 +1,34 @@
+<div class = "row" class = "RightFloat">
+<div class = "column">
+<h2 class = "Block" class = "center">Lamobrghini Aventador SVJ</h2>
+
+<table class = "GarageBlock" style="display:inline;">
+  <thead>
+      <tr>
+          <th colspan="2"><h2>Specifications</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Engine:</td>
+          <td>6.5L V12</td>
+      </tr>
+      <tr>
+          <td>Horsepower:</td>
+          <td>770 hp</td>
+      </tr>
+      <tr>
+          <td>Dry Weight:</td>
+          <td>3362 lbs</td>
+      </tr>
+      <tr>
+          <td>0 to 100km/h:</td>
+          <td>2.8 seconds</td>
+      </tr>
+  </tbody>
+</table>
+</div>
+<div class = "column" style="display:inline;">
+<img src = "aventadorsvj2.jpg" alt = "Lamborghini Aventador SVJ" width = "800" height = "396" class = "RightFloat"/>
+</div>
+</div>
